@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WHAM</string>
+    <string name="Title">Whack A Mole</string>
+    <string name="L1">Level One</string>
+    <string name="L2">Level Two</string>
+    <string name="L3">Level Three</string>
+</resources>
